@@ -48,10 +48,3 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-
-
-- [ ]: 3D Asset Loading: the app should support loading two .glb files.
-- [ ]: Both 3D assets should be displayed correctly with proper scaling.
-- [ ]: Animation & Interaction: include an animation of the uploaded object. 
-- [ ]: The movement of the 3D asset should depend on user interaction:
-- [ ]: Mobile: Use on-screen buttons to change the direction of the object.
